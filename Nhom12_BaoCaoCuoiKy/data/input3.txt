@@ -1,0 +1,4 @@
+Electronics,Phones,1000
+Electronics,Laptops,2000
+Furniture,Chairs,500
+Furniture,Tables,800
